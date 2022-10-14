@@ -3,3 +3,5 @@ b= 6
 print c= a+b
 
 print c= a-b
+
+print c= a*b
