@@ -5,3 +5,5 @@ print c= a+b
 print c= a-b
 
 print c= a*b
+
+print c=a/b
